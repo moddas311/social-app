@@ -101,7 +101,7 @@ const Login = () => {
                     </div>
                 </form>
                 <p className='mt-3'>
-                    <span className='text-blue-300'>New to Phone's Bazar's?
+                    <span className='text-blue-300'>New to soCialApp?
                         <Link className='text-red-400' to='/register'> Create new account</Link>
                     </span>
                 </p>
